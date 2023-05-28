@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/cra-for-beginners/static/js/main.819ce923.js",
+    "main.css": "/cra-for-beginners/static/css/main.6a649ebf.css",
+    "main.js": "/cra-for-beginners/static/js/main.569b5759.js",
     "index.html": "/cra-for-beginners/index.html",
-    "main.819ce923.js.map": "/cra-for-beginners/static/js/main.819ce923.js.map"
+    "main.6a649ebf.css.map": "/cra-for-beginners/static/css/main.6a649ebf.css.map",
+    "main.569b5759.js.map": "/cra-for-beginners/static/js/main.569b5759.js.map"
   },
   "entrypoints": [
-    "static/js/main.819ce923.js"
+    "static/css/main.6a649ebf.css",
+    "static/js/main.569b5759.js"
   ]
 }
